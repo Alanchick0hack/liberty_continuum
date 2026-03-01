@@ -53,3 +53,33 @@ Change history, licensing, and the top-level readme.
 [CHANGELOG.md](CHANGELOG.md)
 
 [LICENSE](LICENSE)
+
+---
+
+## Suggested reading path
+
+1. [VISION.md](VISION.md)  
+Read the end-state intent and the non-utopia framing.
+
+2. [SCOPE.md](SCOPE.md)  
+See what this framework is and is not, plus the hard boundaries.
+
+3. Definitions (in order)  
+Start with the terms that the rest of the repo depends on.  
+- [DEFINITION_Rights_Layer.md](DEFINITIONS/DEFINITION_Rights_Layer.md)  
+- [DEFINITION_Minimal_Coercion.md](DEFINITIONS/DEFINITION_Minimal_Coercion.md)  
+- [DEFINITION_Auditability.md](DEFINITIONS/DEFINITION_Auditability.md)  
+- [DEFINITION_Provenance.md](DEFINITIONS/DEFINITION_Provenance.md)  
+- [DEFINITION_Appeal_Path.md](DEFINITIONS/DEFINITION_Appeal_Path.md)  
+- [DEFINITION_Non_Capture.md](DEFINITIONS/DEFINITION_Non_Capture.md)  
+- [DEFINITION_Governance_As_Infrastructure.md](DEFINITIONS/DEFINITION_Governance_As_Infrastructure.md)
+
+4. Protocols (in order)  
+These show how the constraints become enforceable.  
+- [PROTOCOL_Public_Service_AI_Boundaries.md](PROTOCOLS/PROTOCOL_Public_Service_AI_Boundaries.md)  
+- [PROTOCOL_Decision_Log.md](PROTOCOLS/PROTOCOL_Decision_Log.md)  
+- [PROTOCOL_Appeals.md](PROTOCOLS/PROTOCOL_Appeals.md)  
+- [PROTOCOL_Tripwires.md](PROTOCOLS/PROTOCOL_Tripwires.md)
+
+5. [CANONICAL_INDEX.md](CANONICAL_INDEX.md) and [CHANGELOG.md](CHANGELOG.md)  
+Use these to track what is official and what changed over time.
